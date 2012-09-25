@@ -1,0 +1,8 @@
+# --- Parameter values to be used:
+FFV1_VERSIONS="3"                   # 1 3
+FFV1_CONTEXTS="0 1"                 # 0 1
+FFV1_CODERS="0 1"                   # 0 1
+FFV1_GOP_SIZES="1 300"              # 1 5 10 25 50 100 200 300
+FFV1_SLICES="4 6 9 12 16 24 30"     # 4 6 9 12 16 24 30
+FFV1_SLICECRCS="0 1"                # 0 1
+FFV1_THREADS="4"
